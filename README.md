@@ -12,6 +12,18 @@ Get the latest version here:
 
 ---
 
+## Landing Page
+
+👉 https://docweave.ikailab.com
+
+---
+
+## Admin Portal 
+
+👉 https://app.docweave.ikailab.com
+
+---
+
 ## 🖥 Supported Platforms
 
 | Platform | File |
