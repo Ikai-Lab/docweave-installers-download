@@ -14,13 +14,13 @@ Get the latest version here:
 
 ## Landing Page
 
-👉 https://docweave.ikailab.com
+👉 [https://docweave.ikailab.com](https://docstitch.ikailab.com/sitemap.xml)
 
 ---
 
 ## Admin Portal 
 
-👉 https://app.docweave.ikailab.com
+👉 [https://app.docweave.ikailab.com](https://app.docstitch.ikailab.com/sitemap.xml)
 
 ---
 
